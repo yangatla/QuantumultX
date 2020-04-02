@@ -10,7 +10,7 @@
 ;增强国外GFW：支持
 
 ;设置规则标志位
-surge_ruleset=🔑 自己的规则,https://gist.github.com/yangatla/e4aae9b43820697294a1ed08b3e168ec/raw/b03b3d1f2a6dc44bc5e330c28e3ec298b9670bc1/myrule.list
+surge_ruleset=🔑 自己的规则,https://github.com/yangatla/QuantumultX/raw/master/Surge/Ruleset/myrule.list
 surge_ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/LocalAreaNetwork.list
 surge_ruleset=🛑 广告拦截,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanAD.list
 surge_ruleset=🍃 应用净化,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanProgramAD.list
