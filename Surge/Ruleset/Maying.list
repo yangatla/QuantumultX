@@ -1,5 +1,5 @@
 [custom]
-;不要随意改变关键字，否则会导致出错11
+;不要随意改变关键字，否则会导致出错
 ;acl4SSR规则
 
 ;去广告：支持
@@ -51,7 +51,7 @@ custom_proxy_group=🌵 Speedtest`select`[]DIRECT`[]🔰 节点选择`[]🇺🇲
 custom_proxy_group=🎯 全球直连`select`[]DIRECT`[]🔰 节点选择
 custom_proxy_group=🛑 广告拦截`select`[]REJECT`[]DIRECT
 custom_proxy_group=🔑 自己的规则`select`[]🔰 节点选择`[]🚀 手动切换`[]DIRECT
-custom_proxy_group=🍃 应用净化`select`[]REJECT`[]DIRECT
+custom_proxy_group=🍃 应用净化`select`[]REJECT
 custom_proxy_group=🆎 AdBlock`select`[]REJECT`[]DIRECT
 custom_proxy_group=🐟 漏网之鱼`select`[]🔰 节点选择`[]DIRECT`[]🇭🇰 香港节点`[]🇨🇳 台湾节点`[]🇸🇬 狮城节点`[]🇯🇵 日本节点`[]🇺🇲 美国节点`[]🚀 手动切换
 custom_proxy_group=🇭🇰 香港节点`select`(港|HK)
