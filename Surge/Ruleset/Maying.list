@@ -11,7 +11,7 @@
 
 ;设置规则标志位
 surge_ruleset=🔑 自己的规则,https://github.com/yangatla/QuantumultX/raw/master/Surge/Ruleset/myrule.list
-surge_ruleset=🎯 全球直连,https://raw.githubusercontent.com/yangatla/QuantumultX/master/Surge/Ruleset/学术类.list
+surge_ruleset=🎯 全球直连,https://raw.githubusercontent.com/yangatla/QuantumultX/master/Surge/Ruleset/edu.list
 surge_ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/LocalAreaNetwork.list
 surge_ruleset=🛑 广告拦截,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanAD.list
 surge_ruleset=🍃 应用净化,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanProgramAD.list
